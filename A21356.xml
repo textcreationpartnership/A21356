@@ -1,0 +1,479 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This is a true copy of the ordynau[n]ce made in the tyme of the reygne of Kynge Henry the VI to be obserued in the Kynges Eschequier by the officers and clerkes of the same for takynge of fees of the Kynges accomptis in the same court</title>
+            <author>England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1530</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21356</idno>
+            <idno type="STC">STC 7695.7</idno>
+            <idno type="STC">ESTC S1920</idno>
+            <idno type="EEBO-CITATION">22918504</idno>
+            <idno type="OCLC">ocm 22918504</idno>
+            <idno type="VID">25889</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25889)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1792:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This is a true copy of the ordynau[n]ce made in the tyme of the reygne of Kynge Henry the VI to be obserued in the Kynges Eschequier by the officers and clerkes of the same for takynge of fees of the Kynges accomptis in the same court</title>
+                  <author>England.</author>
+                  <author>England. Exchequer.</author>
+               </titleStmt>
+               <extent>[15] p.   </extent>
+               <publicationStmt>
+                  <publisher>R. Redman,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1530?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁸(last leaf blank).</note>
+                  <note>Publisher and date of publication suggested by STC (2nd ed.).</note>
+                  <note>Reproduction of original in the Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Costs (Law) --  England.</term>
+               <term>Great Britain --  Politics and government --  1509-1547.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="printers_device">
+            <pb facs="tcp:25889:1" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>printer's device of Robert Redman</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:25889:1" rendition="simple:additions"/>
+            <p>¶ This is a true copy of the or<g ref="char:EOLhyphen"/>dynau<g ref="char:cmbAbbrStroke">̄</g>ce made in the tyme of the reygne of kynge Henry the .vi. to be obſerued in the kynges Eſche<g ref="char:EOLhyphen"/>quier by the officers and clerkes of the ſame for ta<g ref="char:EOLhyphen"/>kynge of fees of the kynges accomptis in the ſame court.</p>
+            <p>
+               <figure>
+                  <figDesc>Tudor coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:25889:2"/>
+            <head>¶ In thoffyce of the kynges Remembraunces.</head>
+            <list>
+               <head>¶ Int<expan>
+                     <am>
+                        <g ref="char:aber"/>
+                     </am>
+                     <ex>er</ex>
+                  </expan> Recorda de termino ſancti Michaelis. Anno. xxvi. Regis Henrici ſexti Rotulo, lvi. ex<g ref="char:EOLhyphen"/>parce Remem<g ref="char:cmbAbbrStroke">̄</g> regis.</head>
+               <item>FIrſte for thentre of a Cuſtomers viewe or accomptes in the portes of Bregge<g ref="char:EOLhyphen"/>water / Chicheſter / Newcaſtell / Plym<g ref="char:EOLhyphen"/>mouth. Fowy. Pole. &amp; Berwyk iii.s.iiii. <abbr>d</abbr>
+               </item>
+               <item>Item for thentre of a cuſtomers viewꝭ or accompt of euery other porte vi.s.viii. <abbr>d.</abbr>
+               </item>
+               <item>Item to the Secundary clerke of the ſayd euery other porte. xx. <abbr>d.</abbr>
+               </item>
+               <item>Item for thentre of proceſſes or plees of accomptau<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>tis conteynynge halfe a rolle. iii.s.iiii. <abbr>d.</abbr>
+               </item>
+               <item>Item yf it conteyne an hole rolle. vi.s.viii. <abbr>d</abbr>
+               </item>
+               <item>And ſo after the afferant yf it conteyne more.</item>
+               <item>Item for thentre of lettere patentes Eſcript<expan>
+                     <am>
+                        <g ref="char:aber"/>
+                     </am>
+                     <ex>er</ex>
+                  </expan> con<g ref="char:EOLhyphen"/>feſſyd or other recordes conteynyng leſſe than half a rolle. ii.s.</item>
+               <item>And yf it conteyne halfe a rolle iii.s.iiii. <abbr>d</abbr>
+               </item>
+               <item>And ſo after the afferant.</item>
+               <item>Item for entre of dayes and contyunaunce of ac<g ref="char:EOLhyphen"/>comptauntis. xx. <abbr>d.</abbr>
+               </item>
+               <item>Item for makynge of wryttes of pryuylege ii.s.</item>
+               <item>Item of the collectours and accomptauntis of the xv. peny Nihil</item>
+               <item>Item for thentre of wryttes vnder the greate or pryue Seale dyrect to the treaſourer &amp; barons for accomptauntis yf it co<g ref="char:cmbAbbrStroke">̄</g>teyne halfe a rolle ii.s.</item>
+               <item>And yf it conteyne halfe a ſyde of a rolle. xii. <abbr>d.</abbr>
+               </item>
+               <pb facs="tcp:25889:2"/>
+               <item>And yf it conteyne more than halfe a rolle after the aff<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ant the whiche ſhall remayne to the cler<g ref="char:EOLhyphen"/>kes excepte Mittimus and other wryttes whiche haue ben vſed of olde to be entred amo<g ref="char:cmbAbbrStroke">̄</g>ge recordes</item>
+               <item>Item to the Clerkes for their petycyons yf they co<g ref="char:cmbAbbrStroke">̄</g> teyne halfe a ſkynne of ꝑchemyn pryſtwiſe. ii.s.</item>
+               <item>Item to the clerkes for thentre of foren accomptes of Scotyſſhmoney xx.s.</item>
+               <item>Item to the clerkes for thentre of warrantes of attourney. iiii. <abbr>d.</abbr>
+               </item>
+               <item>Item to the clerkes for makynge of Siſtas in A uxilium conſtat de Niſi prius and commiſſions of Niſi prius at the conſent of the ꝑty co<g ref="char:cmbAbbrStroke">̄</g>teynynge leſſe tha<g ref="char:cmbAbbrStroke">̄</g> halfe a rolle of ꝑchmyn pryſtwiſe. ii.s.</item>
+               <item>And ſo after thafferant yf it conteyne more.</item>
+            </list>
+            <list>
+               <head>In the offyce of the Treaſourer of reme<g ref="char:cmbAbbrStroke">̄</g>brau<g ref="char:cmbAbbrStroke">̄</g>ces.</head>
+               <item>¶ Fyrſt to the mayſter for makynge prouyng caſtynge diſchargynge and alouaunce of the viewes of the ſhyres of Cornewall worceſter. Rotlande and weſtmerlande and eche of them v.s.</item>
+               <item>And cyties and Broughes made Shyres iii.s. iiii.<abbr>d.</abbr>
+               </item>
+               <item>And of other double and great ſhyres. vi.s.viii. <abbr>d</abbr>
+               </item>
+               <item>Item to the clerkes labourynge wrytynge &amp; char<g ref="char:EOLhyphen"/>gyng of the ſayd viewes ii.s.</item>
+               <item>Except the ſayd cyties and broughes made ſhyres ofeueryche of the whiche the clerkes aboue ſayde ſhall take for the ſayd viewes but onely. xx. <abbr>d</abbr>
+               </item>
+               <item>Item to the mayſter for laboure of redynge endo ſyngs &amp; tryenge of petitions &amp; fynes for contemptis
+<pb facs="tcp:25889:3"/>yf any be of the ſheryffes of London and <abbr>Mydd</abbr>. Sutrey / and Suſſex /  Somerſ, and Dorſ. warr<g ref="char:cmbAbbrStroke">̄</g> /  &amp; Leyc<g ref="char:cmbAbbrStroke">̄</g> / Oxen<g ref="char:cmbAbbrStroke">̄</g> / and Bark. Bedforde / and Buk. Eſſex &amp; Herf. Norf and Suff. yorke and Lyncolne of eus ryche of the ſheryffes x.s</item>
+               <item>¶ And of the ſhyres of Kente /  Hampſhyre /  wylteſ. Glouc<g ref="char:cmbAbbrStroke">̄</g>. Not<g ref="char:cmbAbbrStroke">̄</g> / and Darby Heref. Salop<g ref="char:cmbAbbrStroke">̄</g> Cumbr<g ref="char:cmbAbbrStroke">̄</g>. Cambrigge / and Huntyndonſhyres / deuon<g ref="char:cmbAbbrStroke">̄</g> / coru<g ref="char:cmbAbbrStroke">̄</g>br<g ref="char:cmbAbbrStroke">̄</g> Staff. Northu<g ref="char:cmbAbbrStroke">̄</g>br<g ref="char:cmbAbbrStroke">̄</g> / worceſtr<g ref="char:cmbAbbrStroke">̄</g> / and Rotlande euerych of the ſheryffes vi.s.viii. <abbr>d.</abbr>
+               </item>
+               <item>¶ And of the Sheryffes of weſtmerlande and of eche other of Citees and broughes made Shyres iii.s.iiii. <abbr>d.</abbr>
+               </item>
+               <item>Item to the mayſter for thentre of Petycyons of cuſtomers eſchetours and other forreyn accompta<g ref="char:EOLhyphen"/>untis conteynynge halfe a rolle iii.s.iiii. <abbr>d</abbr>
+               </item>
+               <item>And yf it conteyne more or laſſe after thafferante.</item>
+               <item>Item to the mayſter for thentre of Sheryffes day es eſehetours and other accompt auntis except diſ<g ref="char:EOLhyphen"/>mes and quinziſmes xx. <abbr>d.</abbr>
+               </item>
+               <item>Item to the mayſter for entre of clayme of fraun<g ref="char:EOLhyphen"/>chyſes of yſſues fynes and amercyamentes contey<g ref="char:EOLhyphen"/>nynge halfe a rolle iii.s.iiii. <abbr>d</abbr>
+               </item>
+               <item>And yf it co<g ref="char:cmbAbbrStroke">̄</g>teyne ether more or laſſe after thaffera<g ref="char:cmbAbbrStroke">̄</g>t</item>
+               <item>Item to the mayſter for makyuge of wryttes of pry uylege ii.s.</item>
+               <item>Item to the mayſter for makynge prouyng and diſ<g ref="char:EOLunhyphen"/>chargynge of euery viewe of baylyf of fraunchy<g ref="char:EOLhyphen"/>ſes. xx. <abbr>d.</abbr>
+               </item>
+               <item>Item to the clerkes laborynge wryt tynge and dyſ<g ref="char:EOLhyphen"/>chargynge of euery ſuche viewe. xii. <abbr>d</abbr>
+               </item>
+               <item>Item to the Collectoures of diſmes and quinziſ<g ref="char:EOLhyphen"/>mes.
+<pb facs="tcp:25889:3"/>Nichil.</item>
+               <item>Item to the clerkes for makynge of the tenoure of the recorde and wrytte of euery Niſi, prius contey<g ref="char:EOLhyphen"/>nynge leſſe than halfe a rolle. ii.s.</item>
+               <item>And for more after thafferant.</item>
+               <item>¶ Item to the clerkes for the commyſſyon of the ſame. ii.s.</item>
+               <item>Item to the clerkes for thentre of the verdyt of eue<g ref="char:EOLunhyphen"/>ry ſuche Niſi prius retourned. ii.s.</item>
+               <item>¶ Item to the Clerkes for makynge of ſiſtas in auxilium conſtatſuperſedias of lande and v<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ele<g ref="char:EOLhyphen"/>mam. ii.s.</item>
+               <item>Item to the clerkes for Fieri facias vpon tailles &amp; other wryttes. vi. <abbr>d.</abbr>
+               </item>
+               <item>Item to the clerkes for entre of warrantis of attor<g ref="char:EOLunhyphen"/>ney and mayupriſe iiii. <abbr>d.</abbr>
+               </item>
+            </list>
+            <list>
+               <head>¶ In thoffyce of thengroſſer.</head>
+               <item>¶ Fyrſt to the mayſter for his fee makyng of Al<g ref="char:EOLhyphen"/>louaunce and dyſcharge of the ſheryffes of Cor<g ref="char:EOLhyphen"/>newall worceſtr<g ref="char:cmbAbbrStroke">̄</g>. Rotelande / and weſtme<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nde of eche of them. v.s.</item>
+               <item>Item to the mayſter for Cites and broughes ma<g ref="char:EOLhyphen"/>de ſhyres of eche of them iii.s.iiii. <abbr>d.</abbr>
+               </item>
+               <item>And of euery double ſhyre and eche other greate ſhyre x.s.</item>
+               <item>Item to the clerkes for alouaunce of tayles in the ſayd double and grete ſhyres. ii.s.</item>
+               <item>Item to the clerkes for tottes and ꝑcelles and diſ<g ref="char:EOLhyphen"/>charge and alouaunce of the ſaid double and great ſhyres. vi.s.viii. <abbr>d.</abbr>
+               </item>
+               <pb facs="tcp:25889:4"/>
+               <item>Item to the clerkes in the Shyres of Cornewall worceſter Rotlande &amp; weſtmerlande for alouau<g ref="char:cmbAbbrStroke">̄</g>ce of cayles xx. <abbr>d</abbr>
+               </item>
+               <item>Item to the clerkes for tottes and ꝑcelles diſchar<g ref="char:EOLunhyphen"/>ge and alouaunces of the ſame iii.s.iiii. <abbr>d</abbr>
+               </item>
+               <item>Item to the clerkes of cities and broughes made ſhyres for alouaunce of tayles xii. <abbr>d.</abbr>
+               </item>
+               <item>Item to the clerkes for tottes &amp; ꝑcelles diſcharges and alouanuce of the ſame ii.s.</item>
+               <item>Item to the mayſter for alouaunce and diſcharges of Baylyffes of fraunchyſes. xx. <abbr>d.</abbr>
+               </item>
+               <item>Item to the mayſter of euery Eſchetoure of the Shyres of London. Staff. worceſtr<g ref="char:cmbAbbrStroke">̄</g>. Salop<g ref="char:cmbAbbrStroke">̄</g> / and Herer<g ref="char:cmbAbbrStroke">̄</g>. iii.s.iiii. <abbr>d</abbr>
+               </item>
+               <item>Item to the mayſter of euery other Eſchetoure yf he haue any petycyons. v.s.</item>
+               <item>And yf he haue no petycyon onely iii.s.iiii. <abbr>d</abbr>
+               </item>
+               <item>Item of Cyties and Bronghes made Shyres. Nihil</item>
+               <item>Item to the clerkes for alowau<g ref="char:cmbAbbrStroke">̄</g>ce of tayles of eue<g ref="char:EOLunhyphen"/>ry Eſchetoure of London. Stafforde. worceſtre. Salop<g ref="char:cmbAbbrStroke">̄</g>. Hereforde / and cyties and broughes made Shyres xii. <abbr>d.</abbr>
+               </item>
+               <item>Item to the clerkes for ſymple alowaunces of eue<g ref="char:EOLhyphen"/>ry other eſchetoure xx. <abbr>d</abbr>
+               </item>
+               <item>Item to the clerkes for alowaunce of tayles of bay<g ref="char:EOLunhyphen"/>lyffes of frau<g ref="char:cmbAbbrStroke">̄</g>chyſes xii. <abbr>d.</abbr>
+               </item>
+               <item>Item to the clerkes for diſcharge of Baylyffes of fraunchyſes viii. <abbr>d.</abbr>
+               </item>
+               <item>Item to the mayſter of euery cuſtomer in the porte of Bryggewater Chicheſter / Newecaſtell / Plym<g ref="char:EOLunhyphen"/>mouthe / fowy / Pole and Barwyk iii.s.iiii. <abbr>d</abbr>
+               </item>
+               <pb facs="tcp:25889:4"/>
+               <item>Item to the ſayd clerkes of the ſayd porte for al<g ref="char:EOLhyphen"/>lowaunce of tayles. xii. <abbr>d.</abbr>
+               </item>
+               <item>And for diſcharge of them. xx. <abbr>d</abbr>
+               </item>
+               <item>Item to the mayſter of euery cuſtomer in other portes. vi.s.viii. <abbr>d.</abbr>
+               </item>
+               <item>Item to the clerkes in the ſame other portes for allowaunce of tayles xx. <abbr>d.</abbr>
+               </item>
+               <item>And for diſcharge of them. iii.s.iiii. <abbr>d.</abbr>
+               </item>
+               <item>Item fof collectours of quinziſmes Nihil.</item>
+               <item>Item tor then groſſynge of great accomptes with ſette hande that is to ſaye of the Treſourer of the kynges houſholde. xxvi.s.viii. <abbr>d.</abbr>
+               </item>
+               <item>Of the kynges warderobe. xxvi.s.viii. <abbr>d</abbr>
+               </item>
+               <item>Of the Treaſourer of Caleſs. xxvi.s.viii. <abbr>d</abbr>
+               </item>
+               <item>Of the vytayller of Caleis xiii.s.iiii. <abbr>d</abbr>
+               </item>
+               <item>Of the clerke of the kynges werkes xiii.s.iiii. <abbr>d</abbr>
+               </item>
+               <item>And of the duchy of Cornewal xx.s</item>
+               <item>And theſe ſu<g ref="char:cmbAbbrStroke">̄</g>mes of the ſayd great accomptau<g ref="char:cmbAbbrStroke">̄</g>tis to be denyded betwyxte the ſayd mayſter &amp; the cler<g ref="char:EOLunhyphen"/>kes that is to ſaye two partes to the mayſter and the thyrde to the clerkes</item>
+               <item>Item of other ſmall accomptauntis that conteyne halſe a rolle of parchemyne of the Pype to the Clerkes that come late in to the ſayd offyce except of Sheryffes and benefyces not taxed wherof no thynge ſhall be taken. ii.s.</item>
+            </list>
+            <list>
+               <head>In thoffyce o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Coutrollerſhyppe.</head>
+               <item>¶ Fyrſte to the mayſter for his fee and rewarde o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Sheryffes of Cornewall / worceſtre / Rotla<g ref="char:cmbAbbrStroke">̄</g>de weſtmerlande of eche of them iii.s.iiii. <abbr>d</abbr>
+               </item>
+               <pb facs="tcp:25889:5"/>
+               <item>¶ Item of cities and broughes made ſheryffes of eche of them. Nichil.</item>
+               <item>Item to the maiſter of euery double ſhyre and eche other great ſhyre vi.s.viii. <abbr>d.</abbr>
+               </item>
+            </list>
+            <list>
+               <head>¶ In officio clerici plitorum.</head>
+               <item>¶ In primis pro br<g ref="char:cmbAbbrStroke">̄</g>i originali adſectam alicuius computantis in Sc<g ref="char:cmbAbbrStroke">̄</g>cio predicto proſecut<expan>
+                     <am>
+                        <g ref="char:aber"/>
+                     </am>
+                     <ex>er</ex>
+                  </expan> verſus a liquam aliam perſonam. ii.s</item>
+               <item>Item pro br<g ref="char:cmbAbbrStroke">̄</g>i iudiciali. &amp;c vi.s.</item>
+               <item>Item ꝓ intratione declarationis ſuperinde fact<expan>
+                     <am>
+                        <g ref="char:aber"/>
+                     </am>
+                     <ex>er</ex>
+                  </expan> in Rotulo. ii.s.</item>
+               <item>Item pro intratione de nihil dicitfact<g ref="char:cmbAbbrStroke">̄</g> ſuper aliquo computante. &amp;c. ii.s</item>
+               <item>Item pro intratione iudicii redditi. &amp;c. ii.s.</item>
+               <item>Item pro breui de conſtat ad ſectam alicuius com<g ref="char:EOLunhyphen"/>putantis. ii.s.</item>
+               <item>Item pro co<g ref="char:cmbAbbrStroke">̄</g>miſſione fact<g ref="char:cmbAbbrStroke">̄</g> pro aliquo computante quorum nomina iii.s.iiii. <abbr>d</abbr>
+               </item>
+               <item>Ite<g ref="char:cmbAbbrStroke">̄</g> pro irrotulatione eiuſde<g ref="char:cmbAbbrStroke">̄</g> co<g ref="char:cmbAbbrStroke">̄</g>miſſionis. xii. <abbr>d</abbr>
+               </item>
+               <item>Item ꝓ br<g ref="char:cmbAbbrStroke">̄</g>i defieri facias ſuꝑ aliqua aſſignatione fact<g ref="char:cmbAbbrStroke">̄</g> ꝓ aliquo co<g ref="char:cmbAbbrStroke">̄</g>putante vel aliqua alia ꝑſona per<g ref="char:EOLunhyphen"/>alia<g ref="char:cmbAbbrStroke">̄</g> aſſigna tione<g ref="char:cmbAbbrStroke">̄</g> ſiue co<g ref="char:cmbAbbrStroke">̄</g>miſſionem. &amp;c. ii.s.</item>
+               <item>Sed ſepur fierifac<g ref="char:cmbAbbrStroke">̄</g> per taliam vi. <abbr>d.</abbr> tm<g ref="char:cmbAbbrStroke">̄</g>
+               </item>
+               <item>Item ꝓ br<g ref="char:cmbAbbrStroke">̄</g>i de Scire fac<g ref="char:cmbAbbrStroke">̄</g> ſuꝑ allocatione habita in codm<g ref="char:cmbAbbrStroke">̄</g> Sc<g ref="char:cmbAbbrStroke">̄</g>cio. &amp;c. ii.s.</item>
+               <item>Item pro intrations pliti ſiue reſponſ. pro aliqua computante. &amp;c. ii.s.</item>
+               <item>Item pro intratione fact in rotulo ꝓ inuocatione tallie perdite per aliquem co<g ref="char:cmbAbbrStroke">̄</g>putantem. ii.s.</item>
+               <item>Item ex amplificatione recordi habiti pro aliquo
+<pb facs="tcp:25889:5"/>computante. &amp;c. vi.s.iiii. <abbr>d.</abbr>
+               </item>
+            </list>
+            <list>
+               <head>¶ Pro auditoribus et <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>licis ſuis.</head>
+               <item>¶ Item for makynge &amp; wrytynge of euery viewe of an eſchetoure. v.s.</item>
+               <item>¶ Item for the examinynge makyng &amp; wrytyng of thacomptis of eſchetour for euery preſt of the aſſiſe of the pipe wryten on both ſydes. vi.s.viii. <abbr>d</abbr>
+               </item>
+               <item>¶ And if it be leſſe tha<g ref="char:cmbAbbrStroke">̄</g> a preſt tha<g ref="char:cmbAbbrStroke">̄</g> leſſe aft<g ref="char:cmbAbbrStroke">̄</g> thaffera<g ref="char:cmbAbbrStroke">̄</g>t</item>
+               <item>¶ Item for the examynynge preuyuge deuydynge caſtynge &amp; wrytynge of euery accompt of cuſtomers in the portes of London of the greate cuſtome Sa<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>dewyche / Southr<g ref="char:cmbAbbrStroke">̄</g>-Hulle / Boſton and Ippyſwyche yf there be ſhyppynge of wolles and no reteygners nor lycence of euery ſuche accompte of a yere or more xxvi.s.viii. <abbr>d.</abbr>
+               </item>
+               <item>And if it be leſſe than a yere after the afferente of xxvi.s.viii. <abbr>d.</abbr> by the yere</item>
+               <item>Item yf there be reteygners or lycence for euery ſuche accompt of a yere or more xl.s</item>
+               <item>And yf it be leſſe than a yere after thafferant of xi.s. by the yere</item>
+               <item>Item for euery accompt of the ſayd cuſtomers in the ſayd portes yf there be no ſhyppynge of wolles for a yere and more xiii.s.iiii. <abbr>d.</abbr>
+               </item>
+               <item>And yf it be leſſe than a yere after thafferent of .xiii.s.iiii. <abbr>d.</abbr> by the yere.</item>
+               <item>Item fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> euery accompt of the cuſtomers of the Tonnage and pontage of London of pety cuſto<g ref="char:EOLhyphen"/>me of London and of the cuſtomers of Bryſtol for any ſuche accompt of a yere &amp; more. xxvi.s.viii. <abbr>d.</abbr>
+               </item>
+               <item>And yf it be leſſe than a yere after thafferant of
+<pb facs="tcp:25889:6"/>xxvi.s.viii. <abbr>d.</abbr> by the yere.</item>
+               <item>Item for euery accompte of the cuſtomets in the portes of Pole. Exceſtr<g ref="char:cmbAbbrStroke">̄</g>. Dertmouth Plymmouth Fowy / yernemouth: Lynne / and Newcaſtell / for euery ſuche accompte of a yere or more. xiii.s.iiii. <abbr>d</abbr>
+               </item>
+               <item>And yf it be leſſe than a yere after the afferant of xiii.s.viii. <abbr>d.</abbr> by the yere.</item>
+               <item>Item for euery accompte of the cuſtomers in the portes of Chycheſtet and Bryggewater for a yere or more. x.s.</item>
+               <item>And yf it be leſſe than a yere after the afferant of x.s. by the yere.</item>
+               <item>And for euery viewe of cuſtomers in the ſayd por<g ref="char:EOLhyphen"/>tes of London the grete cuſtome of Sandewyche Southr<g ref="char:cmbAbbrStroke">̄</g> / Hull / Boſton<g ref="char:cmbAbbrStroke">̄</g>: and Ippyſwyche yf there be no ſhyppange of wolles. x.s.</item>
+               <item>Item yf there be no ſhyppynge of wolles for euery ſuche viewe vi.s.viii. <abbr>d</abbr>
+               </item>
+               <item>Item for euery viewe of cuſtomers of Tonnage and pontage and pety cuſtome of London and Bryſtowe. x.s.</item>
+               <item>Item for euery viewe of cuſtomers of the portes of Pole / Exceſtr<g ref="char:cmbAbbrStroke">̄</g> / Dermouth / Plymmouth / Fowy yermouth and Lynne vi.s.viii. <abbr>d</abbr>
+               </item>
+               <item>Item for euery viewe of cuſtomers in portes of Chicheſter / Newcaſtell and Bryggewater. v.s</item>
+               <item>Item for thexamynacyon preuynge caſtynge and maki<g ref="char:cmbAbbrStroke">̄</g>g of acco<g ref="char:cmbAbbrStroke">̄</g>pt of the treſourer of houſhold. xl.s.</item>
+               <item>Item for the kynges warderobe xxvi.s.viii. <abbr>d</abbr>
+               </item>
+               <item>Item for the clerke of the werkes xxvi.s.viii. <abbr>d</abbr>
+               </item>
+               <item>Item for the treſourer of Caleis xl.s.</item>
+               <item>Item for the vytayler of Caleis, xxxiii.s.iiii. <abbr>d</abbr>
+               </item>
+               <pb facs="tcp:25889:6"/>
+               <item>Item for the Duchye of Cornewall. xl.s.</item>
+               <item>Item for thaccomptes of the conſtable of the Caſ<g ref="char:EOLhyphen"/>tell of wyndoſor xxvi.s.viii. <abbr>d</abbr>
+               </item>
+               <item>Item for the acconptes of the treaſourer of Irlan<g ref="char:EOLunhyphen"/>de. xx.s.</item>
+               <item>Item for thaccomtes of the conſtable of the caſtell of Burdeux. xlvi.s.viii. <abbr>d</abbr>
+               </item>
+               <item>Item for the accomptes of the Chamberleyne of Berwyke. xx.s.</item>
+               <item>Item for the accomptes of the chamberlayne of Southwalles. xxvi.s.viii. <abbr>d.</abbr>
+               </item>
+               <item>Item for the accomptes of the Chamberlayne of Northwalles. xxvi.s.viii. <abbr>d</abbr>
+               </item>
+               <item>Item for the accomptes of the Chamberlayne of Cheſtre. xxvi.s.viii. <abbr>d.</abbr>
+               </item>
+               <item>Item for thaccomptes of the clerke of the Hana<g ref="char:EOLhyphen"/>per. xx.s.</item>
+               <item>Item for that comptes of the Baylyffe of Sande<g ref="char:EOLhyphen"/>wyche x.s.</item>
+               <item>Item for thaccomptes of the mayſter of the kyn<g ref="char:EOLhyphen"/>ges hors. xiii.s.iiii. <abbr>d.</abbr>
+               </item>
+               <item>Item for euery accompt of euery fermoure of the ſubſyde of Alyeues Serchours and gawgiers in the portes iii.s.iiii. <abbr>d.</abbr>
+               </item>
+               <item>Item for euery foreyn accompte of Sheryffes and vlnage xii. <abbr>d</abbr>
+               </item>
+               <item>Item yf it be a Newe ſeiſex. ii.s.</item>
+               <item>Item for euery accompte of preſtes or any other foreyne accompte ſo it conteyne the length of an hole preeſt within forth. iii.s.iiii. <abbr>d.</abbr>
+               </item>
+            </list>
+            <list>
+               <head>And ſo more or leſſe after thafferant.</head>
+               <item>¶ Item for euery viewe of collectours of benefy<g ref="char:EOLunhyphen"/>ces
+<pb facs="tcp:25889:7"/>not taxed xx. <abbr>d.</abbr>
+               </item>
+               <item>Item for that compt therof iii.s.iiii. <abbr>d.</abbr>
+               </item>
+               <item>¶ Item for euery accompt of the Reſumpty on in the laſte Parlyamente graunted yf it were to any extent x.s.</item>
+               <item>Item of Nihil inde venit Nihil</item>
+               <item>Furthermore the ſayde audytours ſhall take no thynge of the collectors of quinziſmes for any view or accompte makynge.</item>
+            </list>
+            <list>
+               <head>¶ In thoffyce of the foru<g ref="char:cmbAbbrStroke">̄</g> oppofer.</head>
+               <item>¶ Fyrſt of the Sheryffes of London and <abbr>Mydd</abbr> Surt<g ref="char:cmbAbbrStroke">̄</g> / and Suſſex / Som<g ref="char:cmbAbbrStroke">̄</g>ſ. and Dorſ. wart<g ref="char:cmbAbbrStroke">̄</g> &amp; Leir<g ref="char:cmbAbbrStroke">̄</g>. Oxen<g ref="char:cmbAbbrStroke">̄</g> &amp; Berk / <abbr>Bedd</abbr> / &amp; Buk / Cant<g ref="char:cmbAbbrStroke">̄</g> / &amp; Hunt<g ref="char:cmbAbbrStroke">̄</g> / Eſſex &amp; <abbr>Hertford</abbr>. Nort<g ref="char:cmbAbbrStroke">̄</g>. and Sut<g ref="char:cmbAbbrStroke">̄</g>. Not<g ref="char:cmbAbbrStroke">̄</g> / and Derby / Kent Ha<g ref="char:cmbAbbrStroke">̄</g>pſhyre / wyltes / Deuou<g ref="char:cmbAbbrStroke">̄</g> / Corunbt<g ref="char:cmbAbbrStroke">̄</g> / Glour<g ref="char:cmbAbbrStroke">̄</g> / Nor<g ref="char:EOLunhyphen"/>thumbt<g ref="char:cmbAbbrStroke">̄</g> Lyncolne / and yorke of euery Shyryffe of theſe ſhyresthe appoſer vi.s.viii. <abbr>d.</abbr>
+               </item>
+               <item>And his clerkes xl. <abbr>d.</abbr>
+               </item>
+               <item>Item for bylles of alouaunce of Iuſtyces of the peace of euerycheof the ſayd ſweryffes. iii.s.iiii. <abbr>d.</abbr>
+               </item>
+               <item>Item of Baylyffes of fraunchyſes for theyr clay<g ref="char:EOLhyphen"/>mes within the ſayd ſhyres aforeſayd xx. <abbr>d.</abbr>
+               </item>
+               <item>¶ Item of the Sheryffe of the ryte of Norwyche Cyte of yorke / the cyte of Lyneolne Kynſtone vpon Hull Herforde worceſtr<g ref="char:cmbAbbrStroke">̄</g> / Salop<g ref="char:cmbAbbrStroke">̄</g> / Stafforde / Rot<g ref="char:EOLhyphen"/>lande / Norhu<g ref="char:cmbAbbrStroke">̄</g>bt<g ref="char:cmbAbbrStroke">̄</g> / Cumbt<g ref="char:cmbAbbrStroke">̄</g> / weſtmer<g ref="char:cmbAbbrStroke">̄</g> / newcaſtel / Byr<g ref="char:EOLunhyphen"/>ſtowe / Conentre and Nor<g ref="char:cmbAbbrStroke">̄</g> / and euerychone of theſe ſhyryf / the foru<g ref="char:cmbAbbrStroke">̄</g> oppoſer. &amp;c. iii.s.iiii. <abbr>d.</abbr>
+               </item>
+               <item>And his clerke xx. <abbr>d.</abbr>
+               </item>
+               <item>Item for bylles of alouance of the luſtyces of pea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb facs="tcp:25889:7"/>wages ofeueryche of the ſayd ſheryf. xx. <abbr>d.</abbr>
+               </item>
+               <item>Item of Baylyffes of Fraunchyſes of theſe Shyrs for theyr claymes. xii. <abbr>d.</abbr>
+               </item>
+            </list>
+            <list>
+               <head>¶ In thoffyce of chamberlaynes.</head>
+               <item>¶ Fyrſte of euery Sheryffe of the Shyres of Lon and <abbr>Mydd</abbr> / Surrey / and Suſſex / Somerſ. and Dorſ. wart<g ref="char:cmbAbbrStroke">̄</g> and Leic<g ref="char:cmbAbbrStroke">̄</g>. Oxen<g ref="char:cmbAbbrStroke">̄</g> and Berk <abbr>Bedd</abbr>/ and Buk. Eſſex. Hertf. Nort. and Suf. yorke. Lyncolu<g ref="char:cmbAbbrStroke">̄</g> for ioynynge of taylles of eueryche of the ſayd ſhe<g ref="char:EOLhyphen"/>ryffes. iii.s.iiii. <abbr>d.</abbr>
+               </item>
+               <item>Item for ioynynge of tayles of euery Eſchetoure of the ſayd ſhyres excepte <abbr>Mydd</abbr>. xx. <abbr>d.</abbr>
+               </item>
+               <item>¶ Item to the Sheryffes of Kent Southr<g ref="char:cmbAbbrStroke">̄</g> wiltes Glouc<g ref="char:cmbAbbrStroke">̄</g> Nor<g ref="char:cmbAbbrStroke">̄</g> / and Derby Heref. Salop<g ref="char:cmbAbbrStroke">̄</g> / Cant<g ref="char:cmbAbbrStroke">̄</g> and Hunt and Cumberlande for ioynyng of taylles of eueryche of the ſayd ſheryffes. ii.s.</item>
+               <item>Item for ioynynge of taylles of euery eſchetour in the ſame ſhyres except Kent and Cumbr<g ref="char:cmbAbbrStroke">̄</g>. xx. <abbr>d</abbr>
+               </item>
+               <item>Item of the ſheryffes of Deuon<g ref="char:cmbAbbrStroke">̄</g>. Coru<g ref="char:cmbAbbrStroke">̄</g>br<g ref="char:cmbAbbrStroke">̄</g> ſtaf / Nor humbt<g ref="char:cmbAbbrStroke">̄</g> worceſtr<g ref="char:cmbAbbrStroke">̄</g> / Rotlande / weſtmer / and of eche other cite and broughe made ſhyres for ioynynge of taylles of eche of the ſayd ſheryffes. xx. <abbr>d.</abbr>
+               </item>
+               <item>Item for ioynynge of taylles of euery eſchetoure of the ſayd ſhyres except Deuon<g ref="char:cmbAbbrStroke">̄</g> Corumb. Northu<g ref="char:cmbAbbrStroke">̄</g> bt<g ref="char:cmbAbbrStroke">̄</g>. Rotlande and weſtmerl. xii. <abbr>d</abbr>
+               </item>
+               <item>Item for euery eſchetour of the ſhyres of Kentand <abbr>Midd</abbr> Denon<g ref="char:cmbAbbrStroke">̄</g> Corumb. Northumbr<g ref="char:cmbAbbrStroke">̄</g> Rotlande / Cumbr<g ref="char:cmbAbbrStroke">̄</g>. and weſtmer. for ioyuynge of tayles. ii.s.</item>
+               <item>Item of euery Baylyffe offraunchyſes for ioynyng of taylles of the ſumme of .xx.s. or aboue .xii. <abbr>d.</abbr>
+               </item>
+               <pb facs="tcp:25889:8"/>
+               <item>Ite<g ref="char:cmbAbbrStroke">̄</g> of euery Baylyffe of Frau<g ref="char:cmbAbbrStroke">̄</g>chyſes for ioynynge of tayles byneth. xx.s.iiii. <abbr>d</abbr>
+               </item>
+               <item>Item of the cuſtomers of euery of the portes of lon<g ref="char:EOLunhyphen"/>don / Sandwyche / Southr<g ref="char:cmbAbbrStroke">̄</g> / Hull / Boſton<g ref="char:cmbAbbrStroke">̄</g> and Ip<g ref="char:EOLunhyphen"/>pyſwyche for ioynynge of tayles v.s.</item>
+               <item>Item of the cuſtomers of the portes of Pole / Ex<g ref="char:EOLunhyphen"/>ceſtr<g ref="char:cmbAbbrStroke">̄</g> / Dertmouth, Plymmouth / Fowy / yermouth Lynne / and newcaſtell. iii.s.iiii.</item>
+               <item>Item of the cuſtomers of euery of the portes of Chycheſter and Bryggewater. xx. <abbr>d.</abbr>
+               </item>
+               <item>Item of euery Fermour or dettoure not accomp taunte for ioynynge of euery tayle to be allowed to the ſayd Fermoure dettoure and not allowed to any Sheryffe or Baylyffe / yf the ſayd taylles be byneth. xx.li.iiii. <abbr>d</abbr>
+               </item>
+               <item>And yf the ſayde tayles be of .xx.li. or more vnder xl. pounde. vi. <abbr>d.</abbr>
+               </item>
+               <item>Item yf the ſayd taylle be of .xl.li. or aboue. xii. <abbr>d.</abbr>
+               </item>
+               <item>Item of euery collect<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure of diſmes graunted by the clergie. xii. <abbr>d.</abbr>
+               </item>
+               <item>Item of the collectours of quinziſmes Nihil.</item>
+            </list>
+            <closer>
+               <dateline>In thoffyce of the clerke of the xſtretis. Extract.
+Onely his fees and rewardes of the kynge.</dateline>
+            </closer>
+            <trailer>¶ Finis.</trailer>
+            <pb facs="tcp:25889:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
